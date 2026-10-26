@@ -1,0 +1,5 @@
+-r requirements.txt
+matplotlib==3.8.4
+scikit-learn==1.4.2
+jupyterlab==4.2.5
+ruff==0.14.2

@@ -1,0 +1,11 @@
+# Windows x64, Python 3.10 or 3.11. Keep NumPy < 2 for this model stack.
+numpy==1.26.4
+Pillow==10.2.0
+opencv-python==4.10.0.84
+PyQt5==5.15.11
+pyserial==3.5
+torch==2.2.2
+torchvision==0.17.2
+facenet-pytorch==2.6.0
+tensorflow==2.15.1
+ultralytics==8.3.246

@@ -1,0 +1,50 @@
+# Python environments, caches, and local tooling
+/doan2/
+/.venv/
+/.tools/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+
+# Runtime records and captured images
+/data.csv
+/faces/
+/plates/
+/Ultralytics/
+/runs/
+/face_mask_detection/dataset/
+/test_image/
+
+# Historical experiments stay on the author's machine
+/STM32CubeIDE/workspace_1.19.0/
+/STM32CubeIDE/workspace_doan2/doan2_final/
+/STM32CubeIDE/workspace_doan2/STMProject.rar
+/.gitignore.txt
+
+# Eclipse workspace state and generated firmware outputs
+**/.metadata/
+**/Debug/
+**/Release/
+**/.settings/
+**/.mxproject
+*.launch
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+*.bin
+*.hex
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

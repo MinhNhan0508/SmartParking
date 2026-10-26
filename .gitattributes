@@ -1,0 +1,16 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.s text eol=lf
+*.ioc text eol=lf
+*.ld text eol=lf
+*.ipynb text eol=lf
+*.png binary
+*.jpg binary
+*.pt binary
+*.h5 binary
+*.pdf binary
+*.docx binary
